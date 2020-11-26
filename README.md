@@ -1,0 +1,2 @@
+# Cosmocraft
+Cosmocraft Server!!
